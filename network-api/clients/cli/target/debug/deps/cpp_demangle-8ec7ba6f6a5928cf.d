@@ -1,0 +1,12 @@
+/root/.nexus/network-api/clients/cli/target/debug/deps/libcpp_demangle-8ec7ba6f6a5928cf.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/logging.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/ast.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/index_str.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/subs.rs
+
+/root/.nexus/network-api/clients/cli/target/debug/deps/libcpp_demangle-8ec7ba6f6a5928cf.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/logging.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/ast.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/index_str.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/subs.rs
+
+/root/.nexus/network-api/clients/cli/target/debug/deps/cpp_demangle-8ec7ba6f6a5928cf.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/logging.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/ast.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/index_str.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/subs.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/logging.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/ast.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/index_str.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpp_demangle-0.4.4/src/subs.rs:

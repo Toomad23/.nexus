@@ -1,0 +1,13 @@
+/root/.nexus/network-api/clients/cli/target/release/deps/libthiserror_impl-a7ef87fa3a4bf3a2.so: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/ast.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/expand.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/fmt.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/generics.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/prop.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/span.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/valid.rs
+
+/root/.nexus/network-api/clients/cli/target/release/deps/thiserror_impl-a7ef87fa3a4bf3a2.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/ast.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/attr.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/expand.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/fmt.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/generics.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/prop.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/span.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/valid.rs
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/ast.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/attr.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/expand.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/fmt.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/generics.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/prop.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/span.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-impl-1.0.63/src/valid.rs:

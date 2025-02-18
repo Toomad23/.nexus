@@ -1,0 +1,13 @@
+/root/.nexus/network-api/clients/cli/target/release/deps/libprost-8c1b0e01578aa306.rmeta: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/message.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/name.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/types.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/encoding.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/../README.md
+
+/root/.nexus/network-api/clients/cli/target/release/deps/libprost-8c1b0e01578aa306.rlib: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/message.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/name.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/types.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/encoding.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/../README.md
+
+/root/.nexus/network-api/clients/cli/target/release/deps/prost-8c1b0e01578aa306.d: /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/lib.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/error.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/message.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/name.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/types.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/encoding.rs /root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/../README.md
+
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/lib.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/error.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/message.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/name.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/types.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/encoding.rs:
+/root/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.12.6/src/../README.md:

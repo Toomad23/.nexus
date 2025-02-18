@@ -1,0 +1,9 @@
+cargo:rerun-if-changed=proto/orchestrator.proto
+cargo:rerun-if-changed=build.rs
+Current dir: "/root/.nexus/network-api/clients/cli"
+Looking for proto file at: "/root/.nexus/network-api/clients/cli/proto/orchestrator.proto"
+protoc is installed and accessible.
+Output directory src/proto exists.
+Successfully compiled protobuf files.
+Generated file saved to: src/proto/nexus_orchestrator.rs
+Error: Generated file does not exist.
